@@ -1,0 +1,1 @@
+upload_max_filesize=1024M and post_max_size=2047M
